@@ -15,7 +15,7 @@ CustomPrice permet d’ajuster automatiquement vos tarifs en fonction des prix d
 
 Exemple de règle : Définissez mes prix 1€ moins cher que l’offre concurrente la plus basse.
 
-CustomPrice ne modifie pas les prix produits en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, vous retrouvez vos prix initiales.
+CustomPrice ne modifie pas les prix produits en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, vous retrouvez vos prix initiaux.
 
 Pour plus d'informations [Customprice documentation](https://www.prodigiservice.fr/faq/module-prestashop-customprice-veille-tarifaire)
 
