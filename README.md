@@ -1,3 +1,5 @@
+E-commerçants, vous souhaitez booster vos ventes? Le prix est le facteur le plus important qui peut freiner ou libérer l’acte d’achat. Le consommateur compare les prix chez les différents e-commerçants avant d’acheter. Adopter une vraie stratégie de prix grâce à la veille tarifaire est donc primordial. Ceci permet de libérer l’acte d’achat et de booster les ventes de votre boutique en ligne. 
+
 # Deux modules Prestashop de veille tarifaire 
 
 [Site officiel](https://www.prodigiservice.fr)
