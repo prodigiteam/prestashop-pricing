@@ -1,4 +1,4 @@
-E-commerçants, vous souhaitez booster vos ventes? Le prix est le facteur le plus important qui peut freiner ou libérer l’acte d’achat. Le consommateur compare les prix chez les différents e-commerçants avant d’acheter. Adopter une vraie stratégie de prix grâce à la veille tarifaire est donc primordial. Ceci permet de libérer l’acte d’achat et de booster les ventes de votre boutique en ligne. 
+E-commerçants, vous souhaitez booster vos ventes? Le prix est le facteur le plus important qui peut freiner ou libérer l’acte d’achat. Le consommateur compare les prix chez les différents e-commerçants avant d’acheter. Adopter une stratégie de prix grâce à la veille tarifaire est donc primordial. Ceci permet de libérer l’acte d’achat et de booster les ventes de votre boutique en ligne. 
 
 # Deux modules Prestashop de veille tarifaire 
 
@@ -15,7 +15,7 @@ CustomPrice permet d’ajuster automatiquement vos tarifs en fonction des prix d
 
 Exemple de règle : Définissez mes prix 1€ moins cher que l’offre concurrente la plus basse.
 
-CustomPrice ne modifie pas les prix produits en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, vous retrouvez vos prix initiaux.
+Il n'y a aucune modificatoin en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, les prix initiaux s'affichent à nouveau.
 
 Pour plus d'informations [Customprice documentation](https://www.prodigiservice.fr/faq/module-prestashop-customprice-veille-tarifaire)
 
