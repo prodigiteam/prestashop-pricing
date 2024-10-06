@@ -1,32 +1,26 @@
-E-commerçants, vous souhaitez booster vos ventes? Le prix est le facteur le plus important qui peut freiner ou libérer l’acte d’achat. Le consommateur compare les prix chez les différents e-commerçants avant d’acheter. Adopter une stratégie de prix grâce à la veille tarifaire est donc primordial. Ceci permet de libérer l’acte d’achat et de booster les ventes de votre boutique en ligne. 
+E-commerçants, souhaitez-vous augmenter vos ventes ? Le prix est un facteur crucial qui peut soit freiner, soit encourager l’achat. Les consommateurs comparent les prix avant de se décider. Il est donc essentiel d’adopter une véritable stratégie de prix grâce à la veille tarifaire. Cela permet de faciliter l’acte d’achat et d’augmenter les ventes de votre boutique en ligne. 
 
-# Deux modules Prestashop de veille tarifaire 
+# Module Prestashop Dynamicprice pour Prestashop 8
 
 [Site officiel](https://www.prodigiservice.fr)
-
-## 1. Module Displayprices compatible avec Prestashop 8
-
-DisplayPrices transforme votre boutique Prestashop en véritable comparateur de prix.
-Pour plus d'informations [DisplayPrices documentation](https://www.prodigiservice.fr/faq/module-prestashop-displayprices-veille-tarifaire)
-
-## 2. Module Customprice compatible avec Prestashop 8
-
-CustomPrice permet d’ajuster automatiquement vos tarifs en fonction des prix de la concurrence. CustomPrice permet également de définir des règles de gestion tarifaire.
-
-Exemple de règle : Définissez mes prix 1€ moins cher que l’offre concurrente la plus basse.
+ 
+Dynamicprice ajuste automatiquement vos tarifs en fonction des prix de la concurrence. Il permet de définir facilement des règles de gestion tarifaire. Par exemple, vous pouvez fixer vos prix à 1€ de moins que l’offre concurrente la plus basse. Vous pouvez également définir un prix plancher pour chaque article, c’est-à-dire un niveau de prix en dessous duquel vous ne souhaitez pas descendre. 
 
 Il n'y a aucune modification en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, les prix initiaux s'affichent à nouveau.
 
-Pour plus d'informations [Customprice documentation](https://www.prodigiservice.fr/faq/module-prestashop-customprice-veille-tarifaire)
-
 ## Comment ça marche?
 
-CustomPrice et Displayprices appellent l’API ProdigiService afin d’obtenir les prix comparés du produit de votre choix chez de nombreux marchands français. 
+Dynamicprice utilise l’API ProdigiService pour obtenir les prix comparés du produit de votre choix chez de nombreux marchands français. Ces informations permettent d’ajuster vos prix selon votre stratégie tarifaire. L’installation et la configuration de Dynamicprice sont simples et rapides. En 15 minutes, il est pleinement opérationnel.  
 
-Inscrivez-vous sur [ProdigiService](https://www.prodigiservice.fr/login) afin d'obtenir votre 'Private-Key'. Ce paramètre est nécessaire pour appeler l’API ProdigiService.
+Inscrivez-vous sur [ProdigiService](https://www.prodigiservice.fr/login) afin d'obtenir vos paramètres de connexion à l'API ProdigiService.
 
-## Est-ce que ça fonctionne pour Prestashop 6 et 7?
+## Nos tarifs
 
-Actuellement Displayprices et Customprice ne sont pas compatibles avec Prestashop 6 et 7. Veuillez-nous contacter pour vous fournir une version compatible avec Prestashop 6 et 7. 
-[Contactez-nous pour vous aider](https://www.prodigiservice.fr/contactus?action=contactus)
+Dynamicprice est gratuit pour un suivi de 6 articles. Au-delà de 6 articles, l’offre devient payante. Le tarif est déterminé en fonction du nombre d’articles suivis, chaque article suivi coûtant 1€/mois. Voici quelques exemples : 
 
+6 articles suivis 	Gratuit
+7 articles suivis 	7€/mois
+20 articles suivis 	20€/mois
+100 articles suivis 	100€/mois
+
+NB : Il est possible de suivre seulement 5 ou 6 articles dans une boutique qui en contient plus de 1000. 
