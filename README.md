@@ -19,8 +19,11 @@ Inscrivez-vous sur [ProdigiService](https://www.prodigiservice.fr/login) afin d'
 Dynamicprice est gratuit pour un suivi de 6 articles. Au-delà de 6 articles, l’offre devient payante. Le tarif est déterminé en fonction du nombre d’articles suivis, chaque article suivi coûtant 1€/mois. Voici quelques exemples : 
 
 6 articles suivis 	Gratuit
+
 7 articles suivis 	7€/mois
+
 20 articles suivis 	20€/mois
+
 100 articles suivis 	100€/mois
 
 NB : Il est possible de suivre seulement 5 ou 6 articles dans une boutique qui en contient plus de 1000. 
