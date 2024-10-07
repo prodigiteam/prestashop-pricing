@@ -16,11 +16,11 @@ Inscrivez-vous sur [ProdigiService](https://www.prodigiservice.fr/login) afin d'
 
 ## Nos tarifs
 
-Dynamicprice est gratuit pour un suivi de 6 articles. Au-delà de 6 articles, l’offre devient payante. Le tarif est déterminé en fonction du nombre d’articles suivis, chaque article suivi coûtant 1€/mois. Voici quelques exemples : 
+Dynamicprice est gratuit pour un suivi de 3 articles. Au-delà de 3 articles, l’offre devient payante. Le tarif est déterminé en fonction du nombre d’articles suivis, chaque article suivi coûtant 1€/mois. Voici quelques exemples : 
 
-6 articles suivis 	Gratuit
+3 articles suivis 	Gratuit
 
-7 articles suivis 	7€/mois
+4 articles suivis 	4€/mois
 
 20 articles suivis 	20€/mois
 
