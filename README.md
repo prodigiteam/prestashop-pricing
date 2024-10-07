@@ -1,4 +1,4 @@
-E-commerçants, souhaitez-vous augmenter vos ventes ? Le prix est un facteur crucial qui peut soit freiner, soit encourager l’achat. Les consommateurs comparent les prix avant de se décider. Il est donc essentiel d’adopter une véritable stratégie de prix grâce à la veille tarifaire. Cela permet de faciliter l’acte d’achat et d’augmenter les ventes de votre boutique en ligne. 
+E-commerçants, souhaitez-vous augmenter vos ventes ? Le prix est un facteur crucial qui peut soit freiner, soit encourager l’achat. Les consommateurs comparent les prix avant d'acheter. Il est donc essentiel d’adopter une véritable stratégie de prix grâce à la veille tarifaire. Cela permet de faciliter l’acte d’achat et d’augmenter les ventes de votre boutique en ligne. 
 
 # Module Prestashop Dynamicprice pour Prestashop 8
 
