@@ -8,22 +8,13 @@ Dynamicprice ajuste automatiquement vos tarifs en fonction des prix de la concur
 
 Il n'y a aucune modification en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, les prix initiaux s'affichent à nouveau.
 
+[Dynamicprice, installation et configuration](https://www.prodigiservice.fr/veille-tarifaire-prestashop-installation-configuration-module-dynamicprice)
+[Comment le prix de vente est calculé? (voir la dernière partie du document)](https://www.prodigiservice.fr/veille-tarifaire-prestashop-installation-configuration-module-dynamicprice)
+[Nos tarifs]([https://www.prodigiservice.fr](https://www.prodigiservice.fr/veille-tarifaire-prestashop-nos-tarifs))
+
 ## Comment ça marche?
 
 Dynamicprice utilise l’API ProdigiService pour obtenir les prix comparés du produit de votre choix chez de nombreux marchands français. Ces informations permettent d’ajuster vos prix selon votre stratégie tarifaire. L’installation et la configuration de Dynamicprice sont simples et rapides. En 15 minutes, il est pleinement opérationnel.  
 
 Inscrivez-vous sur [ProdigiService](https://www.prodigiservice.fr/login) afin d'obtenir vos paramètres de connexion à l'API ProdigiService.
 
-## Nos tarifs
-
-Dynamicprice est gratuit pour un suivi de 3 articles. Au-delà de 3 articles, l’offre devient payante. Le tarif est déterminé en fonction du nombre d’articles suivis, chaque article suivi coûtant 1€/mois. Voici quelques exemples : 
-
-3 articles suivis 	Gratuit
-
-4 articles suivis 	4€/mois
-
-20 articles suivis 	20€/mois
-
-100 articles suivis 	100€/mois
-
-NB : Il est possible de suivre seulement 5 ou 6 articles dans une boutique qui en contient plus de 1000. 
