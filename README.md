@@ -9,7 +9,9 @@ Dynamicprice ajuste automatiquement vos tarifs en fonction des prix de la concur
 Il n'y a aucune modification en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, les prix initiaux s'affichent à nouveau.
 
 [Dynamicprice, installation et configuration](https://www.prodigiservice.fr/veille-tarifaire-prestashop-installation-configuration-module-dynamicprice)
+
 [Comment le prix de vente est calculé? Veuillez consulter la dernière partie du document](https://www.prodigiservice.fr/veille-tarifaire-prestashop-installation-configuration-module-dynamicprice)
+
 [Nos tarifs]([https://www.prodigiservice.fr](https://www.prodigiservice.fr/veille-tarifaire-prestashop-nos-tarifs))
 
 ## Comment ça marche?
