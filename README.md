@@ -6,7 +6,7 @@ Dans le monde changeant et concurrentiel de l'e-commerce, seuls ceux qui réagis
 
 [Site officiel](https://www.prodigiservice.fr)
  
-Dynamicprice ajuste vos tarifs en temps réel et en fonction des prix de la concurrence. Il permet de définir facilement des règles de gestion tarifaire. Par exemple : fixez vos prix à 1€ de moins que l’offre concurrente la plus basse et sans franchir un certain seuil de prix. 
+Dynamicprice ajuste les prix de vos produits en fonction des prix de la concurrence. Il permet de définir facilement des règles de gestion tarifaire. Par exemple : fixez vos prix à 1€ de moins que l’offre concurrente la plus basse et sans franchir un certain seuil de prix. 
 
 [Dynamicprice : installation et configuration](https://www.prodigiservice.fr/veille-tarifaire-prestashop-installation-configuration-module-dynamicprice)
 
@@ -16,7 +16,7 @@ Nos tarifs : Dynamicprice et l'Api ProdigiService sont gratuits pour un suivi de
 
 ## Comment ça marche?
 
-Dynamicprice utilise l’API ProdigiService pour obtenir les prix comparés du produit de votre choix chez de nombreux marchands français. Ces informations permettent d’ajuster vos prix selon votre stratégie tarifaire. Il n'y a aucune modification en base de données. Les prix sont surchargés de manière dynamique. Si le module est désinstallé, les prix initiaux s'affichent à nouveau. L’installation et la configuration de Dynamicprice sont simples et rapides. En 15 minutes, il est pleinement opérationnel. 
+Dynamicprice utilise l’API ProdigiService pour obtenir les prix comparés du produit de votre choix chez de nombreux marchands français. Ces informations permettent d’ajuster vos prix selon votre stratégie tarifaire. Il n'y a aucune modification en base de données. Les prix sont surchargés de manière dynamique. L’installation et la configuration de Dynamicprice sont simples et rapides. En 15 minutes, il est pleinement opérationnel. 
 
 Inscrivez-vous sur [ProdigiService](https://www.prodigiservice.fr/login) afin d'obtenir vos paramètres de connexion à l'API ProdigiService.
 
