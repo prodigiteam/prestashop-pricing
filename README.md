@@ -12,7 +12,7 @@ Dynamicprice ajuste les prix de vos produits en fonction des prix de la concurre
 
 [Lever l'effet « boîte noire ». Comment le prix de vente est calculé? Veuillez consulter la dernière partie du document](https://www.prodigiservice.fr/veille-tarifaire-prestashop-installation-configuration-module-dynamicprice)
 
-Nos tarifs : Dynamicprice et l'Api ProdigiService sont gratuits pour un suivi de cinq articles. 
+Dynamicprice est GRATUIT pour un suivi de cinq articles. 
 
 ## Comment ça marche?
 
